@@ -1,0 +1,1422 @@
+pays,code_pays,année,nb_personnes
+Afghanistan,2,2010,6.2
+Afghanistan,2,2011,6.4
+Afghanistan,2,2012,6.8
+Afghanistan,2,2013,7.2
+Afghanistan,2,2014,7.5
+Afghanistan,2,2015,7.5
+Afghanistan,2,2016,
+Afrique du Sud,202,2010,2.0
+Afrique du Sud,202,2011,1.9
+Afrique du Sud,202,2012,1.9
+Afrique du Sud,202,2013,2.0
+Afrique du Sud,202,2014,2.2
+Afrique du Sud,202,2015,2.5
+Afrique du Sud,202,2016,
+Albanie,3,2010,0.2
+Albanie,3,2011,0.2
+Albanie,3,2012,0.2
+Albanie,3,2013,0.2
+Albanie,3,2014,0.1
+Albanie,3,2015,0.1
+Albanie,3,2016,
+Algérie,4,2010,2.3
+Algérie,4,2011,2.0
+Algérie,4,2012,1.9
+Algérie,4,2013,1.8
+Algérie,4,2014,1.8
+Algérie,4,2015,1.8
+Algérie,4,2016,
+Allemagne,79,2010,
+Allemagne,79,2011,
+Allemagne,79,2012,
+Allemagne,79,2013,
+Allemagne,79,2014,
+Allemagne,79,2015,
+Allemagne,79,2016,
+Andorre,6,2010,
+Andorre,6,2011,
+Andorre,6,2012,
+Andorre,6,2013,
+Andorre,6,2014,
+Andorre,6,2015,
+Andorre,6,2016,
+Angola,7,2010,4.1
+Angola,7,2011,3.9
+Angola,7,2012,3.8
+Angola,7,2013,3.6
+Angola,7,2014,3.5
+Angola,7,2015,3.5
+Angola,7,2016,
+Antigua-et-Barbuda,8,2010,
+Antigua-et-Barbuda,8,2011,
+Antigua-et-Barbuda,8,2012,
+Antigua-et-Barbuda,8,2013,
+Antigua-et-Barbuda,8,2014,
+Antigua-et-Barbuda,8,2015,
+Antigua-et-Barbuda,8,2016,
+Arabie saoudite,194,2010,2.0
+Arabie saoudite,194,2011,1.8
+Arabie saoudite,194,2012,1.6
+Arabie saoudite,194,2013,1.6
+Arabie saoudite,194,2014,1.5
+Arabie saoudite,194,2015,1.4
+Arabie saoudite,194,2016,
+Argentine,9,2010,1.7
+Argentine,9,2011,1.6
+Argentine,9,2012,1.6
+Argentine,9,2013,1.5
+Argentine,9,2014,1.5
+Argentine,9,2015,1.6
+Argentine,9,2016,
+Arménie,1,2010,0.2
+Arménie,1,2011,0.2
+Arménie,1,2012,0.2
+Arménie,1,2013,0.1
+Arménie,1,2014,0.1
+Arménie,1,2015,0.1
+Arménie,1,2016,
+Australie,10,2010,
+Australie,10,2011,
+Australie,10,2012,
+Australie,10,2013,
+Australie,10,2014,
+Australie,10,2015,
+Australie,10,2016,
+Autriche,11,2010,
+Autriche,11,2011,
+Autriche,11,2012,
+Autriche,11,2013,
+Autriche,11,2014,
+Autriche,11,2015,
+Autriche,11,2016,
+Azerbaïdjan,52,2010,
+Azerbaïdjan,52,2011,
+Azerbaïdjan,52,2012,
+Azerbaïdjan,52,2013,
+Azerbaïdjan,52,2014,
+Azerbaïdjan,52,2015,
+Azerbaïdjan,52,2016,
+Bahamas,12,2010,
+Bahamas,12,2011,
+Bahamas,12,2012,
+Bahamas,12,2013,
+Bahamas,12,2014,
+Bahamas,12,2015,
+Bahamas,12,2016,
+Bahreïn,13,2010,
+Bahreïn,13,2011,
+Bahreïn,13,2012,
+Bahreïn,13,2013,
+Bahreïn,13,2014,
+Bahreïn,13,2015,
+Bahreïn,13,2016,
+Bangladesh,16,2010,25.6
+Bangladesh,16,2011,26.0
+Bangladesh,16,2012,26.1
+Bangladesh,16,2013,25.8
+Bangladesh,16,2014,25.4
+Bangladesh,16,2015,24.4
+Bangladesh,16,2016,
+Barbade,14,2010,
+Barbade,14,2011,
+Barbade,14,2012,
+Barbade,14,2013,
+Barbade,14,2014,
+Barbade,14,2015,
+Barbade,14,2016,
+Bélarus,57,2010,
+Bélarus,57,2011,
+Bélarus,57,2012,
+Bélarus,57,2013,
+Bélarus,57,2014,
+Bélarus,57,2015,
+Bélarus,57,2016,
+Belgique,255,2010,
+Belgique,255,2011,
+Belgique,255,2012,
+Belgique,255,2013,
+Belgique,255,2014,
+Belgique,255,2015,
+Belgique,255,2016,
+Belize,23,2010,
+Belize,23,2011,
+Belize,23,2012,
+Belize,23,2013,
+Belize,23,2014,
+Belize,23,2015,
+Belize,23,2016,
+Bénin,53,2010,1.2
+Bénin,53,2011,1.1
+Bénin,53,2012,1.1
+Bénin,53,2013,1.1
+Bénin,53,2014,1.1
+Bénin,53,2015,1.1
+Bénin,53,2016,
+Bermudes,17,2010,
+Bermudes,17,2011,
+Bermudes,17,2012,
+Bermudes,17,2013,
+Bermudes,17,2014,
+Bermudes,17,2015,
+Bermudes,17,2016,
+Bhoutan,18,2010,
+Bhoutan,18,2011,
+Bhoutan,18,2012,
+Bhoutan,18,2013,
+Bhoutan,18,2014,
+Bhoutan,18,2015,
+Bhoutan,18,2016,
+Bolivie (État plurinational de),19,2010,2.6
+Bolivie (État plurinational de),19,2011,2.5
+Bolivie (État plurinational de),19,2012,2.4
+Bolivie (État plurinational de),19,2013,2.3
+Bolivie (État plurinational de),19,2014,2.2
+Bolivie (État plurinational de),19,2015,2.2
+Bolivie (État plurinational de),19,2016,
+Bosnie-Herzégovine,80,2010,
+Bosnie-Herzégovine,80,2011,
+Bosnie-Herzégovine,80,2012,
+Bosnie-Herzégovine,80,2013,
+Bosnie-Herzégovine,80,2014,
+Bosnie-Herzégovine,80,2015,
+Bosnie-Herzégovine,80,2016,
+Botswana,20,2010,0.6
+Botswana,20,2011,0.6
+Botswana,20,2012,0.5
+Botswana,20,2013,0.5
+Botswana,20,2014,0.5
+Botswana,20,2015,0.6
+Botswana,20,2016,
+Brésil,21,2010,
+Brésil,21,2011,
+Brésil,21,2012,
+Brésil,21,2013,
+Brésil,21,2014,
+Brésil,21,2015,
+Brésil,21,2016,
+Brunéi Darussalam,26,2010,
+Brunéi Darussalam,26,2011,
+Brunéi Darussalam,26,2012,
+Brunéi Darussalam,26,2013,
+Brunéi Darussalam,26,2014,
+Brunéi Darussalam,26,2015,
+Brunéi Darussalam,26,2016,
+Bulgarie,27,2010,0.4
+Bulgarie,27,2011,0.4
+Bulgarie,27,2012,0.4
+Bulgarie,27,2013,0.3
+Bulgarie,27,2014,0.3
+Bulgarie,27,2015,0.2
+Bulgarie,27,2016,
+Burkina Faso,233,2010,3.3
+Burkina Faso,233,2011,3.3
+Burkina Faso,233,2012,3.3
+Burkina Faso,233,2013,3.4
+Burkina Faso,233,2014,3.4
+Burkina Faso,233,2015,3.7
+Burkina Faso,233,2016,
+Burundi,29,2010,
+Burundi,29,2011,
+Burundi,29,2012,
+Burundi,29,2013,
+Burundi,29,2014,
+Burundi,29,2015,
+Burundi,29,2016,
+Cabo Verde,35,2010,
+Cabo Verde,35,2011,
+Cabo Verde,35,2012,
+Cabo Verde,35,2013,
+Cabo Verde,35,2014,
+Cabo Verde,35,2015,
+Cabo Verde,35,2016,
+Cambodge,115,2010,2.7
+Cambodge,115,2011,2.7
+Cambodge,115,2012,2.7
+Cambodge,115,2013,2.6
+Cambodge,115,2014,2.5
+Cambodge,115,2015,2.4
+Cambodge,115,2016,
+Cameroun,32,2010,2.4
+Cameroun,32,2011,2.2
+Cameroun,32,2012,2.0
+Cameroun,32,2013,1.8
+Cameroun,32,2014,1.8
+Cameroun,32,2015,1.9
+Cameroun,32,2016,
+Canada,33,2010,
+Canada,33,2011,
+Canada,33,2012,
+Canada,33,2013,
+Canada,33,2014,
+Canada,33,2015,
+Canada,33,2016,
+Chili,40,2010,0.7
+Chili,40,2011,0.7
+Chili,40,2012,0.7
+Chili,40,2013,0.7
+Chili,40,2014,0.7
+Chili,40,2015,0.7
+Chili,40,2016,
+Chine - RAS de Hong-Kong,96,2010,
+Chine - RAS de Hong-Kong,96,2011,
+Chine - RAS de Hong-Kong,96,2012,
+Chine - RAS de Hong-Kong,96,2013,
+Chine - RAS de Hong-Kong,96,2014,
+Chine - RAS de Hong-Kong,96,2015,
+Chine - RAS de Hong-Kong,96,2016,
+Chine - RAS de Macao,128,2010,
+Chine - RAS de Macao,128,2011,
+Chine - RAS de Macao,128,2012,
+Chine - RAS de Macao,128,2013,
+Chine - RAS de Macao,128,2014,
+Chine - RAS de Macao,128,2015,
+Chine - RAS de Macao,128,2016,
+"Chine, continentale",41,2010,161.9
+"Chine, continentale",41,2011,154.2
+"Chine, continentale",41,2012,147.9
+"Chine, continentale",41,2013,142.4
+"Chine, continentale",41,2014,137.2
+"Chine, continentale",41,2015,133.4
+"Chine, continentale",41,2016,
+"Chine, Taiwan Province de",214,2010,1.6
+"Chine, Taiwan Province de",214,2011,1.6
+"Chine, Taiwan Province de",214,2012,1.6
+"Chine, Taiwan Province de",214,2013,1.5
+"Chine, Taiwan Province de",214,2014,1.4
+"Chine, Taiwan Province de",214,2015,1.2
+"Chine, Taiwan Province de",214,2016,
+Chypre,50,2010,
+Chypre,50,2011,
+Chypre,50,2012,
+Chypre,50,2013,
+Chypre,50,2014,
+Chypre,50,2015,
+Chypre,50,2016,
+Colombie,44,2010,5.1
+Colombie,44,2011,5.0
+Colombie,44,2012,4.7
+Colombie,44,2013,4.2
+Colombie,44,2014,3.7
+Colombie,44,2015,3.4
+Colombie,44,2016,
+Comores,45,2010,
+Comores,45,2011,
+Comores,45,2012,
+Comores,45,2013,
+Comores,45,2014,
+Comores,45,2015,
+Comores,45,2016,
+Congo,46,2010,1.3
+Congo,46,2011,1.2
+Congo,46,2012,1.2
+Congo,46,2013,1.2
+Congo,46,2014,1.2
+Congo,46,2015,1.3
+Congo,46,2016,
+Costa Rica,48,2010,0.2
+Costa Rica,48,2011,0.2
+Costa Rica,48,2012,0.3
+Costa Rica,48,2013,0.3
+Costa Rica,48,2014,0.3
+Costa Rica,48,2015,0.3
+Costa Rica,48,2016,
+Côte d'Ivoire,107,2010,3.3
+Côte d'Ivoire,107,2011,3.3
+Côte d'Ivoire,107,2012,3.3
+Côte d'Ivoire,107,2013,3.3
+Côte d'Ivoire,107,2014,3.3
+Côte d'Ivoire,107,2015,3.5
+Côte d'Ivoire,107,2016,
+Croatie,98,2010,0.1
+Croatie,98,2011,0.1
+Croatie,98,2012,
+Croatie,98,2013,
+Croatie,98,2014,
+Croatie,98,2015,
+Croatie,98,2016,
+Cuba,49,2010,
+Cuba,49,2011,
+Cuba,49,2012,
+Cuba,49,2013,
+Cuba,49,2014,
+Cuba,49,2015,
+Cuba,49,2016,
+Danemark,54,2010,
+Danemark,54,2011,
+Danemark,54,2012,
+Danemark,54,2013,
+Danemark,54,2014,
+Danemark,54,2015,
+Danemark,54,2016,
+Djibouti,72,2010,0.2
+Djibouti,72,2011,0.2
+Djibouti,72,2012,0.2
+Djibouti,72,2013,0.1
+Djibouti,72,2014,0.1
+Djibouti,72,2015,0.1
+Djibouti,72,2016,
+Dominique,55,2010,
+Dominique,55,2011,
+Dominique,55,2012,
+Dominique,55,2013,
+Dominique,55,2014,
+Dominique,55,2015,
+Dominique,55,2016,
+Égypte,59,2010,3.7
+Égypte,59,2011,3.7
+Égypte,59,2012,3.8
+Égypte,59,2013,3.8
+Égypte,59,2014,3.9
+Égypte,59,2015,4.1
+Égypte,59,2016,
+El Salvador,60,2010,0.8
+El Salvador,60,2011,0.8
+El Salvador,60,2012,0.8
+El Salvador,60,2013,0.8
+El Salvador,60,2014,0.7
+El Salvador,60,2015,0.8
+El Salvador,60,2016,
+Émirats arabes unis,225,2010,0.5
+Émirats arabes unis,225,2011,0.5
+Émirats arabes unis,225,2012,0.5
+Émirats arabes unis,225,2013,0.4
+Émirats arabes unis,225,2014,0.4
+Émirats arabes unis,225,2015,0.3
+Émirats arabes unis,225,2016,
+Équateur,58,2010,1.8
+Équateur,58,2011,1.8
+Équateur,58,2012,1.8
+Équateur,58,2013,1.8
+Équateur,58,2014,1.9
+Équateur,58,2015,1.9
+Équateur,58,2016,
+Érythrée,178,2010,
+Érythrée,178,2011,
+Érythrée,178,2012,
+Érythrée,178,2013,
+Érythrée,178,2014,
+Érythrée,178,2015,
+Érythrée,178,2016,
+Espagne,203,2010,
+Espagne,203,2011,
+Espagne,203,2012,
+Espagne,203,2013,
+Espagne,203,2014,
+Espagne,203,2015,
+Espagne,203,2016,
+Estonie,63,2010,
+Estonie,63,2011,
+Estonie,63,2012,
+Estonie,63,2013,
+Estonie,63,2014,
+Estonie,63,2015,
+Estonie,63,2016,
+États-Unis d'Amérique,231,2010,
+États-Unis d'Amérique,231,2011,
+États-Unis d'Amérique,231,2012,
+États-Unis d'Amérique,231,2013,
+États-Unis d'Amérique,231,2014,
+États-Unis d'Amérique,231,2015,
+États-Unis d'Amérique,231,2016,
+Éthiopie,238,2010,28.1
+Éthiopie,238,2011,27.8
+Éthiopie,238,2012,27.9
+Éthiopie,238,2013,27.8
+Éthiopie,238,2014,27.6
+Éthiopie,238,2015,28.6
+Éthiopie,238,2016,
+Fédération de Russie,185,2010,
+Fédération de Russie,185,2011,
+Fédération de Russie,185,2012,
+Fédération de Russie,185,2013,
+Fédération de Russie,185,2014,
+Fédération de Russie,185,2015,
+Fédération de Russie,185,2016,
+Fidji,66,2010,
+Fidji,66,2011,
+Fidji,66,2012,
+Fidji,66,2013,
+Fidji,66,2014,
+Fidji,66,2015,
+Fidji,66,2016,
+Finlande,67,2010,
+Finlande,67,2011,
+Finlande,67,2012,
+Finlande,67,2013,
+Finlande,67,2014,
+Finlande,67,2015,
+Finlande,67,2016,
+France,68,2010,
+France,68,2011,
+France,68,2012,
+France,68,2013,
+France,68,2014,
+France,68,2015,
+France,68,2016,
+Gabon,74,2010,0.1
+Gabon,74,2011,0.1
+Gabon,74,2012,0.1
+Gabon,74,2013,0.1
+Gabon,74,2014,0.1
+Gabon,74,2015,0.1
+Gabon,74,2016,
+Gambie,75,2010,0.2
+Gambie,75,2011,0.2
+Gambie,75,2012,0.2
+Gambie,75,2013,0.2
+Gambie,75,2014,0.2
+Gambie,75,2015,0.2
+Gambie,75,2016,
+Géorgie,73,2010,0.3
+Géorgie,73,2011,0.4
+Géorgie,73,2012,0.3
+Géorgie,73,2013,0.3
+Géorgie,73,2014,0.3
+Géorgie,73,2015,0.3
+Géorgie,73,2016,
+Ghana,81,2010,1.3
+Ghana,81,2011,1.4
+Ghana,81,2012,1.5
+Ghana,81,2013,1.7
+Ghana,81,2014,1.8
+Ghana,81,2015,2.1
+Ghana,81,2016,
+Grèce,84,2010,
+Grèce,84,2011,
+Grèce,84,2012,
+Grèce,84,2013,
+Grèce,84,2014,
+Grèce,84,2015,
+Grèce,84,2016,
+Grenade,86,2010,
+Grenade,86,2011,
+Grenade,86,2012,
+Grenade,86,2013,
+Grenade,86,2014,
+Grenade,86,2015,
+Grenade,86,2016,
+Groenland,85,2010,
+Groenland,85,2011,
+Groenland,85,2012,
+Groenland,85,2013,
+Groenland,85,2014,
+Groenland,85,2015,
+Groenland,85,2016,
+Guatemala,89,2010,2.3
+Guatemala,89,2011,2.4
+Guatemala,89,2012,2.5
+Guatemala,89,2013,2.6
+Guatemala,89,2014,2.6
+Guatemala,89,2015,2.5
+Guatemala,89,2016,
+Guinée,90,2010,2.0
+Guinée,90,2011,2.0
+Guinée,90,2012,2.0
+Guinée,90,2013,2.0
+Guinée,90,2014,2.0
+Guinée,90,2015,2.2
+Guinée,90,2016,
+Guinée équatoriale,61,2010,
+Guinée équatoriale,61,2011,
+Guinée équatoriale,61,2012,
+Guinée équatoriale,61,2013,
+Guinée équatoriale,61,2014,
+Guinée équatoriale,61,2015,
+Guinée équatoriale,61,2016,
+Guinée-Bissau,175,2010,0.4
+Guinée-Bissau,175,2011,0.4
+Guinée-Bissau,175,2012,0.4
+Guinée-Bissau,175,2013,0.4
+Guinée-Bissau,175,2014,0.5
+Guinée-Bissau,175,2015,0.5
+Guinée-Bissau,175,2016,
+Guyana,91,2010,
+Guyana,91,2011,
+Guyana,91,2012,
+Guyana,91,2013,
+Guyana,91,2014,
+Guyana,91,2015,
+Guyana,91,2016,
+Haïti,93,2010,5.0
+Haïti,93,2011,5.0
+Haïti,93,2012,5.1
+Haïti,93,2013,5.2
+Haïti,93,2014,5.1
+Haïti,93,2015,5.0
+Haïti,93,2016,
+Honduras,95,2010,1.2
+Honduras,95,2011,1.2
+Honduras,95,2012,1.2
+Honduras,95,2013,1.2
+Honduras,95,2014,1.3
+Honduras,95,2015,1.2
+Honduras,95,2016,
+Hongrie,97,2010,
+Hongrie,97,2011,
+Hongrie,97,2012,
+Hongrie,97,2013,
+Hongrie,97,2014,
+Hongrie,97,2015,
+Hongrie,97,2016,
+Îles Cook,47,2010,
+Îles Cook,47,2011,
+Îles Cook,47,2012,
+Îles Cook,47,2013,
+Îles Cook,47,2014,
+Îles Cook,47,2015,
+Îles Cook,47,2016,
+Îles Marshall,127,2010,
+Îles Marshall,127,2011,
+Îles Marshall,127,2012,
+Îles Marshall,127,2013,
+Îles Marshall,127,2014,
+Îles Marshall,127,2015,
+Îles Marshall,127,2016,
+Îles Salomon,25,2010,
+Îles Salomon,25,2011,
+Îles Salomon,25,2012,
+Îles Salomon,25,2013,
+Îles Salomon,25,2014,
+Îles Salomon,25,2015,
+Îles Salomon,25,2016,
+Inde,100,2010,191.9
+Inde,100,2011,193.6
+Inde,100,2012,195.1
+Inde,100,2013,195.1
+Inde,100,2014,192.8
+Inde,100,2015,190.7
+Inde,100,2016,
+Indonésie,101,2010,30.2
+Indonésie,101,2011,24.8
+Indonésie,101,2012,21.3
+Indonésie,101,2013,19.1
+Indonésie,101,2014,17.7
+Indonésie,101,2015,20.3
+Indonésie,101,2016,
+Iran (République islamique d'),102,2010,4.3
+Iran (République islamique d'),102,2011,4.3
+Iran (République islamique d'),102,2012,4.3
+Iran (République islamique d'),102,2013,4.2
+Iran (République islamique d'),102,2014,4.2
+Iran (République islamique d'),102,2015,4.3
+Iran (République islamique d'),102,2016,
+Iraq,103,2010,8.4
+Iraq,103,2011,8.4
+Iraq,103,2012,8.5
+Iraq,103,2013,8.9
+Iraq,103,2014,9.4
+Iraq,103,2015,10.1
+Iraq,103,2016,
+Irlande,104,2010,
+Irlande,104,2011,
+Irlande,104,2012,
+Irlande,104,2013,
+Irlande,104,2014,
+Irlande,104,2015,
+Irlande,104,2016,
+Islande,99,2010,
+Islande,99,2011,
+Islande,99,2012,
+Islande,99,2013,
+Islande,99,2014,
+Islande,99,2015,
+Islande,99,2016,
+Israël,105,2010,
+Israël,105,2011,
+Israël,105,2012,
+Israël,105,2013,
+Israël,105,2014,
+Israël,105,2015,
+Israël,105,2016,
+Italie,106,2010,
+Italie,106,2011,
+Italie,106,2012,
+Italie,106,2013,
+Italie,106,2014,
+Italie,106,2015,
+Italie,106,2016,
+Jamaïque,109,2010,0.2
+Jamaïque,109,2011,0.2
+Jamaïque,109,2012,0.3
+Jamaïque,109,2013,0.3
+Jamaïque,109,2014,0.3
+Jamaïque,109,2015,0.2
+Jamaïque,109,2016,
+Japon,110,2010,3.2
+Japon,110,2011,
+Japon,110,2012,
+Japon,110,2013,
+Japon,110,2014,
+Japon,110,2015,
+Japon,110,2016,
+Jordanie,112,2010,0.2
+Jordanie,112,2011,0.2
+Jordanie,112,2012,0.3
+Jordanie,112,2013,0.3
+Jordanie,112,2014,0.3
+Jordanie,112,2015,0.3
+Jordanie,112,2016,
+Kazakhstan,108,2010,0.5
+Kazakhstan,108,2011,0.4
+Kazakhstan,108,2012,
+Kazakhstan,108,2013,
+Kazakhstan,108,2014,
+Kazakhstan,108,2015,
+Kazakhstan,108,2016,
+Kenya,114,2010,9.5
+Kenya,114,2011,9.4
+Kenya,114,2012,9.2
+Kenya,114,2013,9.0
+Kenya,114,2014,8.7
+Kenya,114,2015,8.8
+Kenya,114,2016,
+Kirghizistan,113,2010,0.5
+Kirghizistan,113,2011,0.4
+Kirghizistan,113,2012,0.4
+Kirghizistan,113,2013,0.4
+Kirghizistan,113,2014,0.4
+Kirghizistan,113,2015,0.4
+Kirghizistan,113,2016,
+Kiribati,83,2010,
+Kiribati,83,2011,
+Kiribati,83,2012,
+Kiribati,83,2013,
+Kiribati,83,2014,
+Kiribati,83,2015,
+Kiribati,83,2016,
+Koweït,118,2010,
+Koweït,118,2011,
+Koweït,118,2012,
+Koweït,118,2013,
+Koweït,118,2014,
+Koweït,118,2015,
+Koweït,118,2016,
+Lesotho,122,2010,0.3
+Lesotho,122,2011,0.3
+Lesotho,122,2012,0.3
+Lesotho,122,2013,0.3
+Lesotho,122,2014,0.3
+Lesotho,122,2015,0.3
+Lesotho,122,2016,
+Lettonie,119,2010,
+Lettonie,119,2011,
+Lettonie,119,2012,
+Lettonie,119,2013,
+Lettonie,119,2014,
+Lettonie,119,2015,
+Lettonie,119,2016,
+l'ex-République yougoslave de Macédoine,154,2010,
+l'ex-République yougoslave de Macédoine,154,2011,
+l'ex-République yougoslave de Macédoine,154,2012,
+l'ex-République yougoslave de Macédoine,154,2013,
+l'ex-République yougoslave de Macédoine,154,2014,
+l'ex-République yougoslave de Macédoine,154,2015,
+l'ex-République yougoslave de Macédoine,154,2016,
+Liban,121,2010,0.2
+Liban,121,2011,0.2
+Liban,121,2012,0.2
+Liban,121,2013,0.3
+Liban,121,2014,0.3
+Liban,121,2015,0.3
+Liban,121,2016,
+Libéria,123,2010,1.4
+Libéria,123,2011,1.5
+Libéria,123,2012,1.6
+Libéria,123,2013,1.7
+Libéria,123,2014,1.8
+Libéria,123,2015,1.9
+Libéria,123,2016,
+Libye,124,2010,
+Libye,124,2011,
+Libye,124,2012,
+Libye,124,2013,
+Libye,124,2014,
+Libye,124,2015,
+Libye,124,2016,
+Lituanie,126,2010,
+Lituanie,126,2011,
+Lituanie,126,2012,
+Lituanie,126,2013,
+Lituanie,126,2014,
+Lituanie,126,2015,
+Lituanie,126,2016,
+Luxembourg,256,2010,
+Luxembourg,256,2011,
+Luxembourg,256,2012,
+Luxembourg,256,2013,
+Luxembourg,256,2014,
+Luxembourg,256,2015,
+Luxembourg,256,2016,
+Madagascar,129,2010,6.7
+Madagascar,129,2011,6.9
+Madagascar,129,2012,7.4
+Madagascar,129,2013,8.1
+Madagascar,129,2014,9.2
+Madagascar,129,2015,10.3
+Madagascar,129,2016,
+Malaisie,131,2010,1.1
+Malaisie,131,2011,1.0
+Malaisie,131,2012,1.0
+Malaisie,131,2013,0.9
+Malaisie,131,2014,0.8
+Malaisie,131,2015,
+Malaisie,131,2016,
+Malawi,130,2010,3.2
+Malawi,130,2011,3.2
+Malawi,130,2012,3.3
+Malawi,130,2013,3.5
+Malawi,130,2014,3.9
+Malawi,130,2015,4.5
+Malawi,130,2016,
+Maldives,132,2010,
+Maldives,132,2011,
+Maldives,132,2012,
+Maldives,132,2013,
+Maldives,132,2014,
+Maldives,132,2015,
+Maldives,132,2016,
+Mali,133,2010,1.1
+Mali,133,2011,1.1
+Mali,133,2012,1.0
+Mali,133,2013,1.0
+Mali,133,2014,0.8
+Mali,133,2015,0.7
+Mali,133,2016,
+Malte,134,2010,
+Malte,134,2011,
+Malte,134,2012,
+Malte,134,2013,
+Malte,134,2014,
+Malte,134,2015,
+Malte,134,2016,
+Maroc,143,2010,1.7
+Maroc,143,2011,1.6
+Maroc,143,2012,1.5
+Maroc,143,2013,1.4
+Maroc,143,2014,1.4
+Maroc,143,2015,1.2
+Maroc,143,2016,
+Maurice,137,2010,
+Maurice,137,2011,
+Maurice,137,2012,
+Maurice,137,2013,
+Maurice,137,2014,
+Maurice,137,2015,
+Maurice,137,2016,
+Mauritanie,136,2010,0.3
+Mauritanie,136,2011,0.3
+Mauritanie,136,2012,0.3
+Mauritanie,136,2013,0.2
+Mauritanie,136,2014,0.2
+Mauritanie,136,2015,0.2
+Mauritanie,136,2016,
+Mexique,138,2010,5.4
+Mexique,138,2011,5.5
+Mexique,138,2012,5.5
+Mexique,138,2013,5.5
+Mexique,138,2014,5.5
+Mexique,138,2015,5.4
+Mexique,138,2016,
+Micronésie (États fédérés de),145,2010,
+Micronésie (États fédérés de),145,2011,
+Micronésie (États fédérés de),145,2012,
+Micronésie (États fédérés de),145,2013,
+Micronésie (États fédérés de),145,2014,
+Micronésie (États fédérés de),145,2015,
+Micronésie (États fédérés de),145,2016,
+Mongolie,141,2010,0.6
+Mongolie,141,2011,0.5
+Mongolie,141,2012,0.5
+Mongolie,141,2013,0.5
+Mongolie,141,2014,0.5
+Mongolie,141,2015,0.6
+Mongolie,141,2016,
+Monténégro,273,2010,
+Monténégro,273,2011,
+Monténégro,273,2012,
+Monténégro,273,2013,
+Monténégro,273,2014,
+Monténégro,273,2015,
+Monténégro,273,2016,
+Mozambique,144,2010,7.3
+Mozambique,144,2011,7.2
+Mozambique,144,2012,7.1
+Mozambique,144,2013,7.2
+Mozambique,144,2014,7.3
+Mozambique,144,2015,7.4
+Mozambique,144,2016,
+Myanmar,28,2010,8.8
+Myanmar,28,2011,8.1
+Myanmar,28,2012,7.7
+Myanmar,28,2013,7.6
+Myanmar,28,2014,7.7
+Myanmar,28,2015,9.1
+Myanmar,28,2016,
+Namibie,147,2010,0.8
+Namibie,147,2011,0.8
+Namibie,147,2012,0.8
+Namibie,147,2013,0.7
+Namibie,147,2014,0.7
+Namibie,147,2015,0.7
+Namibie,147,2016,
+Nauru,148,2010,
+Nauru,148,2011,
+Nauru,148,2012,
+Nauru,148,2013,
+Nauru,148,2014,
+Nauru,148,2015,
+Nauru,148,2016,
+Népal,149,2010,2.7
+Népal,149,2011,2.5
+Népal,149,2012,2.4
+Népal,149,2013,2.4
+Népal,149,2014,2.3
+Népal,149,2015,2.3
+Népal,149,2016,
+Nicaragua,157,2010,1.2
+Nicaragua,157,2011,1.2
+Nicaragua,157,2012,1.1
+Nicaragua,157,2013,1.1
+Nicaragua,157,2014,1.0
+Nicaragua,157,2015,1.0
+Nicaragua,157,2016,
+Niger,158,2010,1.8
+Niger,158,2011,1.9
+Niger,158,2012,1.9
+Niger,158,2013,1.9
+Niger,158,2014,1.9
+Niger,158,2015,2.2
+Niger,158,2016,
+Nigéria,159,2010,10.1
+Nigéria,159,2011,10.5
+Nigéria,159,2012,11.0
+Nigéria,159,2013,11.6
+Nigéria,159,2014,13.0
+Nigéria,159,2015,14.3
+Nigéria,159,2016,
+Nioué,160,2010,
+Nioué,160,2011,
+Nioué,160,2012,
+Nioué,160,2013,
+Nioué,160,2014,
+Nioué,160,2015,
+Nioué,160,2016,
+Norvège,162,2010,
+Norvège,162,2011,
+Norvège,162,2012,
+Norvège,162,2013,
+Norvège,162,2014,
+Norvège,162,2015,
+Norvège,162,2016,
+Nouvelle-Calédonie,153,2010,
+Nouvelle-Calédonie,153,2011,
+Nouvelle-Calédonie,153,2012,
+Nouvelle-Calédonie,153,2013,
+Nouvelle-Calédonie,153,2014,
+Nouvelle-Calédonie,153,2015,
+Nouvelle-Calédonie,153,2016,
+Nouvelle-Zélande,156,2010,
+Nouvelle-Zélande,156,2011,
+Nouvelle-Zélande,156,2012,
+Nouvelle-Zélande,156,2013,
+Nouvelle-Zélande,156,2014,
+Nouvelle-Zélande,156,2015,
+Nouvelle-Zélande,156,2016,
+Oman,221,2010,0.2
+Oman,221,2011,0.2
+Oman,221,2012,0.2
+Oman,221,2013,0.2
+Oman,221,2014,0.2
+Oman,221,2015,0.3
+Oman,221,2016,
+Ouganda,226,2010,10.3
+Ouganda,226,2011,10.9
+Ouganda,226,2012,11.6
+Ouganda,226,2013,12.6
+Ouganda,226,2014,13.8
+Ouganda,226,2015,15.2
+Ouganda,226,2016,
+Ouzbékistan,235,2010,2.4
+Ouzbékistan,235,2011,2.2
+Ouzbékistan,235,2012,2.1
+Ouzbékistan,235,2013,2.0
+Ouzbékistan,235,2014,1.9
+Ouzbékistan,235,2015,1.9
+Ouzbékistan,235,2016,
+Pakistan,165,2010,35.8
+Pakistan,165,2011,36.5
+Pakistan,165,2012,37.2
+Pakistan,165,2013,37.8
+Pakistan,165,2014,38.3
+Pakistan,165,2015,37.6
+Pakistan,165,2016,
+Palaos,180,2010,
+Palaos,180,2011,
+Palaos,180,2012,
+Palaos,180,2013,
+Palaos,180,2014,
+Palaos,180,2015,
+Palaos,180,2016,
+Panama,166,2010,0.5
+Panama,166,2011,0.4
+Panama,166,2012,0.4
+Panama,166,2013,0.4
+Panama,166,2014,0.4
+Panama,166,2015,0.4
+Panama,166,2016,
+Papouasie-Nouvelle-Guinée,168,2010,
+Papouasie-Nouvelle-Guinée,168,2011,
+Papouasie-Nouvelle-Guinée,168,2012,
+Papouasie-Nouvelle-Guinée,168,2013,
+Papouasie-Nouvelle-Guinée,168,2014,
+Papouasie-Nouvelle-Guinée,168,2015,
+Papouasie-Nouvelle-Guinée,168,2016,
+Paraguay,169,2010,0.8
+Paraguay,169,2011,0.7
+Paraguay,169,2012,0.8
+Paraguay,169,2013,0.8
+Paraguay,169,2014,0.8
+Paraguay,169,2015,0.8
+Paraguay,169,2016,
+Pays-Bas,150,2010,
+Pays-Bas,150,2011,
+Pays-Bas,150,2012,
+Pays-Bas,150,2013,
+Pays-Bas,150,2014,
+Pays-Bas,150,2015,
+Pays-Bas,150,2016,
+Pérou,170,2010,3.3
+Pérou,170,2011,3.0
+Pérou,170,2012,2.7
+Pérou,170,2013,2.5
+Pérou,170,2014,2.4
+Pérou,170,2015,2.5
+Pérou,170,2016,
+Philippines,171,2010,12.4
+Philippines,171,2011,13.1
+Philippines,171,2012,13.7
+Philippines,171,2013,14.1
+Philippines,171,2014,14.1
+Philippines,171,2015,13.9
+Philippines,171,2016,
+Pologne,173,2010,
+Pologne,173,2011,
+Pologne,173,2012,
+Pologne,173,2013,
+Pologne,173,2014,
+Pologne,173,2015,
+Pologne,173,2016,
+Polynésie française,70,2010,
+Polynésie française,70,2011,
+Polynésie française,70,2012,
+Polynésie française,70,2013,
+Polynésie française,70,2014,
+Polynésie française,70,2015,
+Polynésie française,70,2016,
+Porto Rico,177,2010,
+Porto Rico,177,2011,
+Porto Rico,177,2012,
+Porto Rico,177,2013,
+Porto Rico,177,2014,
+Porto Rico,177,2015,
+Porto Rico,177,2016,
+Portugal,174,2010,
+Portugal,174,2011,
+Portugal,174,2012,
+Portugal,174,2013,
+Portugal,174,2014,
+Portugal,174,2015,
+Portugal,174,2016,
+Qatar,179,2010,
+Qatar,179,2011,
+Qatar,179,2012,
+Qatar,179,2013,
+Qatar,179,2014,
+Qatar,179,2015,
+Qatar,179,2016,
+République arabe syrienne,212,2010,
+République arabe syrienne,212,2011,
+République arabe syrienne,212,2012,
+République arabe syrienne,212,2013,
+République arabe syrienne,212,2014,
+République arabe syrienne,212,2015,
+République arabe syrienne,212,2016,
+République centrafricaine,37,2010,1.5
+République centrafricaine,37,2011,1.6
+République centrafricaine,37,2012,1.9
+République centrafricaine,37,2013,2.3
+République centrafricaine,37,2014,2.6
+République centrafricaine,37,2015,2.9
+République centrafricaine,37,2016,
+République de Corée,117,2010,
+République de Corée,117,2011,
+République de Corée,117,2012,
+République de Corée,117,2013,
+République de Corée,117,2014,
+République de Corée,117,2015,
+République de Corée,117,2016,
+République de Moldova,146,2010,0.6
+République de Moldova,146,2011,0.4
+République de Moldova,146,2012,0.4
+République de Moldova,146,2013,0.3
+République de Moldova,146,2014,0.3
+République de Moldova,146,2015,0.3
+République de Moldova,146,2016,
+République démocratique du Congo,250,2010,
+République démocratique du Congo,250,2011,
+République démocratique du Congo,250,2012,
+République démocratique du Congo,250,2013,
+République démocratique du Congo,250,2014,
+République démocratique du Congo,250,2015,
+République démocratique du Congo,250,2016,
+République démocratique populaire lao,120,2010,1.3
+République démocratique populaire lao,120,2011,1.2
+République démocratique populaire lao,120,2012,1.2
+République démocratique populaire lao,120,2013,1.1
+République démocratique populaire lao,120,2014,1.1
+République démocratique populaire lao,120,2015,1.2
+République démocratique populaire lao,120,2016,
+République dominicaine,56,2010,1.6
+République dominicaine,56,2011,1.5
+République dominicaine,56,2012,1.4
+République dominicaine,56,2013,1.4
+République dominicaine,56,2014,1.4
+République dominicaine,56,2015,1.4
+République dominicaine,56,2016,
+République populaire démocratique de Corée,116,2010,10.3
+République populaire démocratique de Corée,116,2011,10.3
+République populaire démocratique de Corée,116,2012,10.3
+République populaire démocratique de Corée,116,2013,10.3
+République populaire démocratique de Corée,116,2014,10.2
+République populaire démocratique de Corée,116,2015,10.3
+République populaire démocratique de Corée,116,2016,
+République-Unie de Tanzanie,215,2010,15.8
+République-Unie de Tanzanie,215,2011,15.8
+République-Unie de Tanzanie,215,2012,15.8
+République-Unie de Tanzanie,215,2013,15.8
+République-Unie de Tanzanie,215,2014,15.8
+République-Unie de Tanzanie,215,2015,17.3
+République-Unie de Tanzanie,215,2016,
+Roumanie,183,2010,
+Roumanie,183,2011,
+Roumanie,183,2012,
+Roumanie,183,2013,
+Roumanie,183,2014,
+Roumanie,183,2015,
+Roumanie,183,2016,
+Royaume-Uni,229,2010,
+Royaume-Uni,229,2011,
+Royaume-Uni,229,2012,
+Royaume-Uni,229,2013,
+Royaume-Uni,229,2014,
+Royaume-Uni,229,2015,
+Royaume-Uni,229,2016,
+Rwanda,184,2010,3.5
+Rwanda,184,2011,3.5
+Rwanda,184,2012,3.6
+Rwanda,184,2013,3.9
+Rwanda,184,2014,4.4
+Rwanda,184,2015,4.8
+Rwanda,184,2016,
+Sainte-Lucie,189,2010,
+Sainte-Lucie,189,2011,
+Sainte-Lucie,189,2012,
+Sainte-Lucie,189,2013,
+Sainte-Lucie,189,2014,
+Sainte-Lucie,189,2015,
+Sainte-Lucie,189,2016,
+Saint-Kitts-et-Nevis,188,2010,
+Saint-Kitts-et-Nevis,188,2011,
+Saint-Kitts-et-Nevis,188,2012,
+Saint-Kitts-et-Nevis,188,2013,
+Saint-Kitts-et-Nevis,188,2014,
+Saint-Kitts-et-Nevis,188,2015,
+Saint-Kitts-et-Nevis,188,2016,
+Saint-Vincent-et-les Grenadines,191,2010,
+Saint-Vincent-et-les Grenadines,191,2011,
+Saint-Vincent-et-les Grenadines,191,2012,
+Saint-Vincent-et-les Grenadines,191,2013,
+Saint-Vincent-et-les Grenadines,191,2014,
+Saint-Vincent-et-les Grenadines,191,2015,
+Saint-Vincent-et-les Grenadines,191,2016,
+Samoa,244,2010,
+Samoa,244,2011,
+Samoa,244,2012,
+Samoa,244,2013,
+Samoa,244,2014,
+Samoa,244,2015,
+Samoa,244,2016,
+Samoa américaines,5,2010,
+Samoa américaines,5,2011,
+Samoa américaines,5,2012,
+Samoa américaines,5,2013,
+Samoa américaines,5,2014,
+Samoa américaines,5,2015,
+Samoa américaines,5,2016,
+Sao Tomé-et-Principe,193,2010,
+Sao Tomé-et-Principe,193,2011,
+Sao Tomé-et-Principe,193,2012,
+Sao Tomé-et-Principe,193,2013,
+Sao Tomé-et-Principe,193,2014,
+Sao Tomé-et-Principe,193,2015,
+Sao Tomé-et-Principe,193,2016,
+Sénégal,195,2010,1.7
+Sénégal,195,2011,1.7
+Sénégal,195,2012,1.7
+Sénégal,195,2013,1.7
+Sénégal,195,2014,1.7
+Sénégal,195,2015,1.7
+Sénégal,195,2016,
+Serbie,272,2010,0.5
+Serbie,272,2011,0.5
+Serbie,272,2012,0.5
+Serbie,272,2013,0.5
+Serbie,272,2014,0.5
+Serbie,272,2015,0.5
+Serbie,272,2016,
+Seychelles,196,2010,
+Seychelles,196,2011,
+Seychelles,196,2012,
+Seychelles,196,2013,
+Seychelles,196,2014,
+Seychelles,196,2015,
+Seychelles,196,2016,
+Sierra Leone,197,2010,1.6
+Sierra Leone,197,2011,1.5
+Sierra Leone,197,2012,1.5
+Sierra Leone,197,2013,1.5
+Sierra Leone,197,2014,1.6
+Sierra Leone,197,2015,2.0
+Sierra Leone,197,2016,
+Singapour,200,2010,
+Singapour,200,2011,
+Singapour,200,2012,
+Singapour,200,2013,
+Singapour,200,2014,
+Singapour,200,2015,
+Singapour,200,2016,
+Slovaquie,199,2010,0.2
+Slovaquie,199,2011,0.2
+Slovaquie,199,2012,0.2
+Slovaquie,199,2013,0.2
+Slovaquie,199,2014,0.2
+Slovaquie,199,2015,0.2
+Slovaquie,199,2016,
+Slovénie,198,2010,
+Slovénie,198,2011,
+Slovénie,198,2012,
+Slovénie,198,2013,
+Slovénie,198,2014,
+Slovénie,198,2015,
+Slovénie,198,2016,
+Somalie,201,2010,
+Somalie,201,2011,
+Somalie,201,2012,
+Somalie,201,2013,
+Somalie,201,2014,
+Somalie,201,2015,
+Somalie,201,2016,
+Soudan,276,2010,
+Soudan,276,2011,
+Soudan,276,2012,9.9
+Soudan,276,2013,9.9
+Soudan,276,2014,10.1
+Soudan,276,2015,10.3
+Soudan,276,2016,
+Soudan du Sud,277,2010,
+Soudan du Sud,277,2011,
+Soudan du Sud,277,2012,
+Soudan du Sud,277,2013,
+Soudan du Sud,277,2014,
+Soudan du Sud,277,2015,
+Soudan du Sud,277,2016,
+Sri Lanka,38,2010,5.2
+Sri Lanka,38,2011,5.1
+Sri Lanka,38,2012,5.0
+Sri Lanka,38,2013,4.9
+Sri Lanka,38,2014,4.7
+Sri Lanka,38,2015,4.6
+Sri Lanka,38,2016,
+Suède,210,2010,
+Suède,210,2011,
+Suède,210,2012,
+Suède,210,2013,
+Suède,210,2014,
+Suède,210,2015,
+Suède,210,2016,
+Suisse,211,2010,
+Suisse,211,2011,
+Suisse,211,2012,
+Suisse,211,2013,
+Suisse,211,2014,
+Suisse,211,2015,
+Suisse,211,2016,
+Suriname,207,2010,
+Suriname,207,2011,
+Suriname,207,2012,
+Suriname,207,2013,
+Suriname,207,2014,
+Suriname,207,2015,
+Suriname,207,2016,
+Swaziland,209,2010,0.3
+Swaziland,209,2011,0.3
+Swaziland,209,2012,0.3
+Swaziland,209,2013,0.3
+Swaziland,209,2014,0.3
+Swaziland,209,2015,0.3
+Swaziland,209,2016,
+Tadjikistan,208,2010,2.9
+Tadjikistan,208,2011,2.9
+Tadjikistan,208,2012,2.7
+Tadjikistan,208,2013,2.6
+Tadjikistan,208,2014,2.5
+Tadjikistan,208,2015,2.6
+Tadjikistan,208,2016,
+Tchad,39,2010,4.8
+Tchad,39,2011,4.8
+Tchad,39,2012,4.8
+Tchad,39,2013,4.8
+Tchad,39,2014,4.8
+Tchad,39,2015,4.6
+Tchad,39,2016,
+Tchéquie (la),167,2010,
+Tchéquie (la),167,2011,
+Tchéquie (la),167,2012,
+Tchéquie (la),167,2013,
+Tchéquie (la),167,2014,
+Tchéquie (la),167,2015,
+Tchéquie (la),167,2016,
+Territoire palestinien occupé,299,2010,
+Territoire palestinien occupé,299,2011,
+Territoire palestinien occupé,299,2012,
+Territoire palestinien occupé,299,2013,
+Territoire palestinien occupé,299,2014,
+Territoire palestinien occupé,299,2015,
+Territoire palestinien occupé,299,2016,
+Thaïlande,216,2010,6.2
+Thaïlande,216,2011,5.9
+Thaïlande,216,2012,5.7
+Thaïlande,216,2013,5.7
+Thaïlande,216,2014,5.7
+Thaïlande,216,2015,6.5
+Thaïlande,216,2016,
+Timor-Leste,176,2010,0.3
+Timor-Leste,176,2011,0.3
+Timor-Leste,176,2012,0.3
+Timor-Leste,176,2013,0.3
+Timor-Leste,176,2014,0.3
+Timor-Leste,176,2015,0.3
+Timor-Leste,176,2016,
+Togo,217,2010,1.3
+Togo,217,2011,1.3
+Togo,217,2012,1.2
+Togo,217,2013,1.1
+Togo,217,2014,0.9
+Togo,217,2015,0.8
+Togo,217,2016,
+Tokélaou,218,2010,
+Tokélaou,218,2011,
+Tokélaou,218,2012,
+Tokélaou,218,2013,
+Tokélaou,218,2014,
+Tokélaou,218,2015,
+Tokélaou,218,2016,
+Tonga,219,2010,
+Tonga,219,2011,
+Tonga,219,2012,
+Tonga,219,2013,
+Tonga,219,2014,
+Tonga,219,2015,
+Tonga,219,2016,
+Trinité-et-Tobago,220,2010,0.1
+Trinité-et-Tobago,220,2011,0.1
+Trinité-et-Tobago,220,2012,
+Trinité-et-Tobago,220,2013,
+Trinité-et-Tobago,220,2014,
+Trinité-et-Tobago,220,2015,
+Trinité-et-Tobago,220,2016,
+Tunisie,222,2010,0.5
+Tunisie,222,2011,0.5
+Tunisie,222,2012,0.5
+Tunisie,222,2013,0.5
+Tunisie,222,2014,0.5
+Tunisie,222,2015,0.6
+Tunisie,222,2016,
+Turkménistan,213,2010,0.2
+Turkménistan,213,2011,0.3
+Turkménistan,213,2012,0.3
+Turkménistan,213,2013,0.3
+Turkménistan,213,2014,0.3
+Turkménistan,213,2015,0.3
+Turkménistan,213,2016,
+Turquie,223,2010,
+Turquie,223,2011,
+Turquie,223,2012,
+Turquie,223,2013,
+Turquie,223,2014,
+Turquie,223,2015,
+Turquie,223,2016,
+Tuvalu,227,2010,
+Tuvalu,227,2011,
+Tuvalu,227,2012,
+Tuvalu,227,2013,
+Tuvalu,227,2014,
+Tuvalu,227,2015,
+Tuvalu,227,2016,
+Ukraine,230,2010,
+Ukraine,230,2011,
+Ukraine,230,2012,
+Ukraine,230,2013,
+Ukraine,230,2014,
+Ukraine,230,2015,
+Ukraine,230,2016,
+Uruguay,234,2010,
+Uruguay,234,2011,
+Uruguay,234,2012,
+Uruguay,234,2013,
+Uruguay,234,2014,
+Uruguay,234,2015,
+Uruguay,234,2016,
+Vanuatu,155,2010,
+Vanuatu,155,2011,
+Vanuatu,155,2012,
+Vanuatu,155,2013,
+Vanuatu,155,2014,
+Vanuatu,155,2015,
+Vanuatu,155,2016,
+Venezuela (République bolivarienne du),236,2010,0.9
+Venezuela (République bolivarienne du),236,2011,1.1
+Venezuela (République bolivarienne du),236,2012,1.4
+Venezuela (République bolivarienne du),236,2013,2.0
+Venezuela (République bolivarienne du),236,2014,2.8
+Venezuela (République bolivarienne du),236,2015,4.1
+Venezuela (République bolivarienne du),236,2016,
+Viet Nam,237,2010,12.1
+Viet Nam,237,2011,11.6
+Viet Nam,237,2012,11.2
+Viet Nam,237,2013,10.8
+Viet Nam,237,2014,10.3
+Viet Nam,237,2015,10.0
+Viet Nam,237,2016,
+Yémen,249,2010,6.1
+Yémen,249,2011,6.1
+Yémen,249,2012,6.1
+Yémen,249,2013,6.3
+Yémen,249,2014,6.6
+Yémen,249,2015,7.7
+Yémen,249,2016,
+Zambie,251,2010,6.9
+Zambie,251,2011,7.0
+Zambie,251,2012,7.1
+Zambie,251,2013,7.2
+Zambie,251,2014,7.3
+Zambie,251,2015,7.4
+Zambie,251,2016,
+Zimbabwe,181,2010,4.7
+Zimbabwe,181,2011,4.7
+Zimbabwe,181,2012,5.0
+Zimbabwe,181,2013,5.6
+Zimbabwe,181,2014,6.3
+Zimbabwe,181,2015,7.0
+Zimbabwe,181,2016,
