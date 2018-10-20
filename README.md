@@ -18,6 +18,8 @@ En fonction des besoins exprimés plus bas dans cet énoncé, il vous appartiend
 
 Bilans alimentaires
 
-Sécurité alimentaire, puis dans cette rubrique, Données de la sécurité alimentaire .
+Sécurité alimentaire, puis dans cette rubrique, 
+
+Données de la sécurité alimentaire .
 
 Cette rubrique contient de nombreux indicateurs, mais nous ne nous intéresserons ici qu’à l’indicateur Nombre de personnes sous-alimentées
